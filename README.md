@@ -10,6 +10,10 @@ Call it with commands as your perameters and it will execute them and display th
 *script-manager.bat*
 Finds batch files named "main.bat" contained in child directories of its own, uses the .bat file's directory to name it, and can enumerate information written in a brief.txt placed next to each application. Uses all of this to list all of the applications it finds in a "main menu", allowing you to quickly start any of your many batch scripts.
 
+### File name scrambler
+*file-name-scrambler.bat*
+Does exactly what you'd think it does in whatever directory it's placed in! It was also my first published coding project on GitHub it seems, so horray for <a href="https://github.com/alexlyee/file-name-scrambler">nostalgia</a>!
+
 
 <hr />
 <p align="center">
