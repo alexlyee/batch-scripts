@@ -7,7 +7,7 @@ d
 
 <hr />
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Bitl/FMBot_Discord/1.1.4/fmbotlogo.png" width="350" alt=".fmbot logo">
+   <img src="https://github.com/alexlyee/batch-scripts/raw/master/gears.png" width="400" alt="some gears because that's what it's like">
 </p>
 <p align="center">
   <a><img src="https://img.shields.io/github/repo-size/alexlyee/batch-scripts?color=9cf&style=for-the-badge" alt="Size"></a>
