@@ -14,6 +14,7 @@ Finds batch files named "main.bat" contained in child directories of its own, us
 *file-name-scrambler.bat*
 Does exactly what you'd think it does in whatever directory it's placed in! It was also my first published coding project on GitHub it seems, so horray for <a href="https://github.com/alexlyee/file-name-scrambler">nostalgia</a>!
 
+#### feel free to check out my <a href="https://gist.github.com/alexlyee">gists</a> for even smaller bytes of code.
 
 <hr />
 <p align="center">
