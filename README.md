@@ -1,9 +1,15 @@
-# Alex's Batch Scripts
+# Some Batch Scripts
 A collection of Windows .BAT &amp; .CMD scripts that may aid in your quest to automate things, or just to do something neat!
 
-d
 
-d
+### Command execution timer
+*timeit.cmd*
+Call it with commands as your perameters and it will execute them and display the time it took to complete the command.
+
+### Little batch script organizer
+*script-manager.bat*
+Finds batch files named "main.bat" contained in child directories of its own, uses the .bat file's directory to name it, and can enumerate information written in a brief.txt placed next to each application. Uses all of this to list all of the applications it finds in a "main menu", allowing you to quickly start any of your many batch scripts.
+
 
 <hr />
 <p align="center">
