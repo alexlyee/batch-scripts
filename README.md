@@ -1,5 +1,5 @@
 # Some Batch Scripts
-A collection of Windows .BAT &amp; .CMD scripts that may aid in your quest to automate things, or just to do something neat!
+A collection of Windows .BAT &amp; .CMD scripts of mine that may aid in your quest to automate things, or just to do something neat!
 
 
 ### Command execution timer
